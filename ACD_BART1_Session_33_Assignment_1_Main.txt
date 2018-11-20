@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION 33: TABLEAU DESKTOP
+(CONTD.)
+
+
+
+Assignment 1
+
+
+Table of Contents
+1. Introduction	3
+2. Objective	3
+3. Prerequisites	3
+4. Associated Data Files	3
+5. Problem Statement	3
+6. Expected Output	3
+7. Approximate Time to Complete Task	3
+
+
+1. Introduction
+This assignment will help you understand the concepts learnt in the session.
+
+2. Objective
+To understand the concepts in Tableau.
+
+3. Prerequisites
+Not applicable.
+
+4. Associated Data Files
+N/A
+
+5. Problem Statement
+1. Open the Super Store dashboard.twbx
+2. Create a bar graph to show the Total Sales across customer segments for various regions
+3. Segregate each region with different colors
+
+
+6. Expected Output
+N/A
+
+7. Approximate Time to Complete Task
+
+
+
+
